@@ -1,6 +1,7 @@
 export { validateCuit } from "./validateCuit";
 export { validateEmail } from "./validateEmail";
 export { validateName } from "./validateName";
+export { validateBusinessName } from "./validateBusinessName";
 export { validatePassword } from "./validatePassword";
 export { validateSalaryRange } from "./validateSalaryRange";
 export { validateNumber } from "./validateNumber";

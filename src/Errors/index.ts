@@ -3,6 +3,7 @@ export { InvalidCuitError } from "./InvalidCuitError";
 export { EmptyNameError } from "./EmptyNameError";
 export { NameWithDigitsError } from "./NameWithDigitsError";
 export { InvalidEmailError } from "./InvalidEmailError";
+export { InvalidBusinessName } from "./InvalidBusinessName";
 export { ShortPasswordError } from "./ShortPasswordError";
 export { LongPasswordError } from "./LongPasswordError";
 export { PasswordWithoutUppercaseError } from "./PasswordWithoutUppercaseError";
